@@ -3,3 +3,6 @@ added line 1 in mybranch 1
 added line 2 in mybranch 1
 added line 3 in mybranch 2
 added line 4 in mybranch 2
+added line 5 
+added line 6
+added line 7
